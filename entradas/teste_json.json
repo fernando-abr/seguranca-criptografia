@@ -1,0 +1,30 @@
+{
+  "usuario": {
+    "id": 12345,
+    "nome": "João da Silva",
+    "email": "joao.silva@example.com",
+    "ativo": true,
+    "permissoes": ["leitura", "escrita", "admin"]
+  },
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": 123,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01234-567"
+  },
+  "compras": [
+    {
+      "id": 1,
+      "produto": "Notebook",
+      "valor": 4599.99,
+      "data": "2025-06-01"
+    },
+    {
+      "id": 2,
+      "produto": "Mouse Gamer",
+      "valor": 199.90,
+      "data": "2025-06-15"
+    }
+  ]
+}
